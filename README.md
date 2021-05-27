@@ -1,2 +1,9 @@
 # C-Program-
-C Program of Hello World
+//C Program of Hello World
+
+#include<stdio.h>
+int main()
+{
+printf("Hello World");
+return 0;
+}
